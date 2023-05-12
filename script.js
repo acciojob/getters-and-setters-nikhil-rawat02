@@ -4,10 +4,10 @@ class Person {
 		this.name = pName;
 		this.age = pAge;
 	}
-	set name(pName){
+	set Name(pName){
 		tis.name = pName;
 	}
-	set age(pAge){
+	set Age(pAge){
 		this.age = pAge;
 	}
 }
