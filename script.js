@@ -1,5 +1,7 @@
 //complete this code
 class Person {
+	name;
+	age;
 	function Person(pName , pAge){
 		this.name = pName;
 		this.age = pAge;
