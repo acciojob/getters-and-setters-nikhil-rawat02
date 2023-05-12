@@ -5,7 +5,7 @@ class Person {
 		this.age = pAge;
 	}
 	set Name(pName){
-		tis.name = pName;
+		this.name = pName;
 	}
 	set Age(pAge){
 		this.age = pAge;
