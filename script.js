@@ -1,14 +1,14 @@
 //complete this code
 class Person {
-	function Person(name , age){
-		this.name = name;
-		this.age = age;
+	function Person(pName , pAge){
+		this.name = pName;
+		this.age = pAge;
 	}
-	function setName(name){
-		this.name = name;
+	function setName(pName){
+		this.name = pName;
 	}
-	function setAge(age){
-		this.age = age;
+	function setAge(pAge){
+		this.age = pAge;
 	}
 }
 
